@@ -1,0 +1,25 @@
+#form {
+
+    width: 50%;
+    margin:0 auto;
+    border: solid 1px;
+    padding: 18px 16px;
+    border: solid black;
+    align-content: center;
+}
+.input{
+    padding: 14px 16px;
+    width: 50%;
+    border: solid 1px;
+    border-radius: 6px;
+}
+button{
+    padding: 15px 16px;
+    border: none;
+    width: 50%;
+    background-color: black;
+    color: white;
+}
+#level {
+    color: white;
+}

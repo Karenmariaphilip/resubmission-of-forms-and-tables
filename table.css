@@ -1,0 +1,12 @@
+th,td,tr {
+    border: 2px solid black;
+    column-gap: 3px;
+    
+
+
+}
+table{
+    border-collapse: collapse ; 
+    background-color: powderblue;
+    height:20%;
+}
